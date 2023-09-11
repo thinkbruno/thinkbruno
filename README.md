@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Olá 👋
 
 Sou o Bruno, desenvolvedor full stack. Apaixonado por tecnologia, desenvolvimento e games. 
 
